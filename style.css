@@ -1,0 +1,21 @@
+body {
+    font-size: 15pt;
+}
+h1 {
+  color:blue;
+}
+#mine {
+  color:red;
+}
+
+.btn{
+  Display: block;
+  color: pink;
+  padding: 20px;
+  background: black;
+  margin: 20px;
+box-shadow: 5px 10px;
+}
+a {
+ text-decoration:none;
+}
