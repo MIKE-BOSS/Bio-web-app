@@ -9,8 +9,8 @@ h1 {
 }
 
 .btn{
-  Display: block;
-  color: pink;
+  Display:block;
+  color: red;
   padding: 20px;
   background: black;
   margin: 20px;
@@ -18,4 +18,7 @@ box-shadow: 5px 10px;
 }
 a {
  text-decoration:none;
+}
+p2 {
+  color: red;
 }
